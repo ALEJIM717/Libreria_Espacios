@@ -80,7 +80,7 @@ Uso en HTML
 </html>
 
 ####**Capturas de pantalla**
-![Funcionamiento](./libreria_imagen.png)
+![Funcionamiento](./libreria_imagenn.png)
 
 
 ####Video 
