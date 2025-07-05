@@ -6,6 +6,8 @@
 - Rodríguez Hernández Alexa Isabel  
 - Jiménez Osorio Christopher Martín  
 
+**Equipo 8** 
+
 **Materia:** Programación Web  
 **Tarea:** Librería 
 **Periodo:** Verano 2025  
