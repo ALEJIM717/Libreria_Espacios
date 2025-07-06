@@ -12,11 +12,11 @@
 **Tarea:** Librería 
 **Periodo:** Verano 2025  
 
-####**Instalación**
+#### **Instalación**
 Incluirla en un .html con la siguiente nomenclatura 
 <script src="libreria.js"></script>
 
-####**Uso**
+#### **Uso**
 Uso en HTML
 <!DOCTYPE html>
 <html lang="es">
@@ -81,9 +81,9 @@ Uso en HTML
 
 </html>
 
-####**Capturas de pantalla**
+#### **Capturas de pantalla**
 ![Funcionamiento](./libreria_imagenn.png)
 
 
-####Video 
+#### Video 
 https://drive.google.com/drive/folders/1AlFHFEs91bzrxFTpVgxhVvLXxSc1wu9u?usp=sharing
